@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:20261107@constellation-redteaming-hackathon.github.io
-DTSTAMP:20261023T192340Z
-LAST-MODIFIED:20261023T192340Z
-SEQUENCE:1
+DTSTAMP:20261111T001522Z
+LAST-MODIFIED:20261111T001522Z
+SEQUENCE:2
 DTSTART:20261205T163000Z
 DTEND:20261206T040000Z
 SUMMARY:Model Genealogy Hackathon
 LOCATION:Constellation 6E
 DESCRIPTION:Identify the teachers behind distilled models. Teams of 3-5.\nD
  ecember 5\, 2026\, 8:30am-8pm Pacific.
-URL:https://constellation-redteaming-hackathon.github.io/
+URL:https://constellation-model-genealogy-hackathon.github.io/
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR

@@ -3,7 +3,7 @@
 Public landing page for the December 5, 2026 hackathon at Constellation 6E,
 8:30am–8pm Pacific. Participants identify the teachers behind distilled models.
 
-Live site: <https://constellation-redteaming-hackathon.github.io/>
+Live site: <https://constellation-model-genealogy-hackathon.github.io/>
 
 This is a static single page using HTML, CSS, and local SVG artwork. It requires no
 build step, package installation, JavaScript, or application server.
@@ -20,8 +20,10 @@ Open <http://127.0.0.1:8080>.
 
 ## GitHub Pages
 
-Publish the root directory of the `main` branch. The `.nojekyll` file lets GitHub
-Pages serve the files directly. All page assets use relative paths.
+Publish the root directory of the `main` branch from
+`constellation-model-genealogy-hackathon/constellation-model-genealogy-hackathon.github.io`.
+The `.nojekyll` file lets GitHub Pages serve the files directly. All page assets
+use relative paths.
 
 ## Expressions of interest
 
