@@ -463,12 +463,9 @@ h3 {
   width: 56px;
   height: 56px;
   place-items: center;
-  border: 1px solid #717867;
-  border-radius: 4px;
 }
 .calendar-link:hover {
   color: var(--green);
-  border-color: var(--green);
 }
 .calendar-link svg {
   width: 40px;
