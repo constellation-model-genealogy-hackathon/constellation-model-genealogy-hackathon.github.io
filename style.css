@@ -211,28 +211,6 @@ h1 > span {
 .genealogy-art {
   width: 100%;
   height: auto;
-  margin-bottom: 15px;
-}
-.genealogy-figure figcaption {
-  padding-top: 17px;
-  border-top: 1px solid #cbd0bf;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 14px;
-  font-size: 12px;
-  line-height: 1.5;
-  color: #646b59;
-}
-.figure-key {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-}
-.figure-key i {
-  width: 13px;
-  height: 2px;
-  background: var(--red);
 }
 .about-section {
   border-top: 1px solid var(--line);
@@ -521,10 +499,6 @@ h3 {
   .genealogy-figure {
     padding-inline: 16px;
   }
-  .genealogy-figure figcaption {
-    flex-wrap: wrap;
-    gap: 8px;
-  }
   .event-date {
     font-size: 13px;
     gap: 7px;
@@ -590,10 +564,6 @@ h3 {
   }
   .genealogy-art {
     max-height: 410px;
-    margin-bottom: 13px;
-  }
-  .genealogy-figure figcaption {
-    flex-wrap: nowrap;
   }
   .about-section {
     padding-block: 50px 56px;
@@ -700,9 +670,6 @@ h3 {
   }
   .genealogy-figure {
     padding-inline: 15px;
-  }
-  .genealogy-figure figcaption {
-    gap: 6px;
   }
   h2 {
     font-size: 33px;
