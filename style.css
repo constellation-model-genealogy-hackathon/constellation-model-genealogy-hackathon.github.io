@@ -460,8 +460,8 @@ h3 {
 }
 .calendar-link {
   display: grid;
-  width: 44px;
-  height: 44px;
+  width: 56px;
+  height: 56px;
   place-items: center;
   border: 1px solid #717867;
   border-radius: 4px;
@@ -471,8 +471,8 @@ h3 {
   border-color: var(--green);
 }
 .calendar-link svg {
-  width: 22px;
-  height: 22px;
+  width: 40px;
+  height: 40px;
 }
 .button-light {
   background: var(--green);
