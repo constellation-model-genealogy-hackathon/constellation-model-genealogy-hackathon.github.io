@@ -3,7 +3,7 @@
 Public landing page for the December 5, 2026 hackathon at Constellation 6E,
 8:30am–8pm Pacific. Participants identify the teachers behind distilled models.
 
-Live site: <https://constellation-model-genealogy-hackathon.github.io/>
+Live site: <https://llmgenealogy.com/>
 
 This is a static single page using HTML, CSS, and local SVG artwork. It requires no
 build step, package installation, JavaScript, or application server.
