@@ -475,20 +475,8 @@ h3 {
   align-items: flex-start;
   padding-left: 48px;
 }
-.signup-status {
-  display: inline-flex;
-  align-items: center;
-  gap: 9px;
-  font-size: 13px;
-  line-height: 1.6;
+.calendar-link:hover {
   color: var(--green);
-  margin-bottom: 20px;
-}
-.signup-status > span {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: var(--green);
 }
 .button-light {
   background: var(--green);
@@ -762,8 +750,7 @@ h3 {
     background: none;
     color: var(--ink);
   }
-  .interest-inner > div > p:last-child,
-  .signup-status {
+  .interest-inner > div > p:last-child {
     color: var(--ink);
   }
   .date-poster {

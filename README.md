@@ -25,16 +25,10 @@ Publish the root directory of the `main` branch from
 The `.nojekyll` file lets GitHub Pages serve the files directly. All page assets
 use relative paths.
 
-## Expressions of interest
+## Applications
 
-The page clearly marks the application form as coming soon. It does not collect
-or store personal information. The calendar download is functional and reserves
-the event hours in Pacific time. Its stable event UID is retained from the original
-save-the-date, with an updated sequence, so calendar clients can identify the change.
-
-When a hosted interest form is ready, update the `#interest` section in `index.html`
-with a link to that form and revise the coming-soon copy. Keep personal signup data
-in the form service, outside this public repository.
+The Apply buttons link to the hosted Google Form. The calendar download reserves
+the event hours in Pacific time and retains the original event UID.
 
 ## Editing
 
